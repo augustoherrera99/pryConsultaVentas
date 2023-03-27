@@ -1,0 +1,5 @@
+100,Ricardo Fuentes,0,1
+101,Susana Fernandez,1,0
+102,Facundo Allende,1,1
+103,Ramiro Rodriguez,1,1
+104,Griselda Sanchez,1,0
