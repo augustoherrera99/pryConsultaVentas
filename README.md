@@ -1,8 +1,8 @@
-#  Formulario de Consulta y Registro de Personal de Clínica 🏥🚑
+#   Consulta de Ventas y Comisiones 🧑‍📊💼
 
 ## Descripción 🏝
 
-Aplicación de Windows Forms que cumple la función de consulta de la grilla de médicos que trabajan en la clínica filtrando por especialidad. Pudiendo también registrar nuevas especialidades y médicos. Dichos datos se almacenan y leen en un archivo txt.
+Panel de consulta de ventas y comisiones de vendedores de un negocio filtrando por fecha y nombre de vendedor. Los datos se leen y se encuentran almacenados en 3 archivos txt.
 
 ## Autor ✒️
 **Augusto Herrera**
