@@ -1,4 +1,4 @@
-#   Consulta de Ventas y Comisiones 🧑‍📊💼
+# Formulario de Consulta de Ventas y Comisiones 🧑‍📊💼
 
 ## Descripción 🏝
 
@@ -13,7 +13,7 @@ Panel de consulta de ventas y comisiones de vendedores de un negocio filtrando p
 _En desarrollo_
 
 ## Instalación 
-Clonar el repositorio, preferentemente en Visual Studio, mover los archivos txt "Medicos" y "Especialidades", que se encuentran en la carpeta principal, a > Debug > Bin para la lectura y manipulación del archivo; y compilarlo para su ejecución.
+Clonar el repositorio, preferentemente en Visual Studio, mover los archivos txt "Ventas", "Vendedores" y "Clientes", que se encuentran en la carpeta principal, a > Debug > Bin para la lectura y manipulación del archivo; y compilarlo para su ejecución.
   
 ## Contratación
 Si quieres contratarme puedes escribirme a augustofherrera@hotmail.com o comunicarte por mi [LinkedIn](https://www.linkedin.com/in/herreraaugusto/) para consultas.
